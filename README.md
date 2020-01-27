@@ -1,2 +1,0 @@
-# Dedsec21
-Coder.
